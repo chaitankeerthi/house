@@ -1,0 +1,65 @@
+*{
+    color: white;
+}
+.bar{
+    margin-left: 50px;
+    margin-right: 700px;
+    display: inline-block;
+    float: left;
+}
+.navbar li {
+    display: inline;
+    
+}
+.navbar li a{
+    text-decoration: none;
+}
+.hoveritem a:hover{
+    color:rgb(53, 199, 236);
+    text-decoration: underline;
+}
+body{
+    
+    rgba(0,0,0,0.1);
+    background-image: url(darkroom.jpg);background-repeat: no-repeat;background-size: cover;
+}
+.span{
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+.div{
+    padding:170px 170px 170px 380px;
+    
+}
+.input input{
+    border-radius: 10px ;
+    width: 150px;
+    height: 30px;
+}
+.input input:hover{
+    
+    background-color:rgb(83, 234, 234)
+}
+.input {
+    padding-lef
+    t:250px;
+}
+.hoveritem li{
+    margin-right: 7px;
+}
+.subs {
+    margin-left: 50px;
+}
+.bell{
+    margin-left: 150px;
+}
+.but1{
+    margin-left: 100px;
+    background-color: transparent;
+    border-color: darkcyan;
+}
+.but2{
+    background-color: transparent;
+    border-color: darkcyan;
+}
